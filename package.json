@@ -16,7 +16,7 @@
     "dotenv": "^11.0.0",
     "ethers": "^5.5.3",
     "lodash": "^4.17.21",
-    "mathjs": "^10.1.0",
+    "mathjs": "^10.6.4",
     "ora": "^6.0.1",
     "trading-view-recommends-parser-nodejs": "^1.0.2",
     "tslib": "^2.3.1",
